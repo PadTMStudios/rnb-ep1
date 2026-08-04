@@ -1,1 +1,3 @@
-
+<Version: 6.01>
+data/updater.txt https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/updater.txt
+<End of Version>
