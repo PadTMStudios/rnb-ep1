@@ -7,7 +7,7 @@ data/Map013.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/hea
 <End of Version>
 
 <Version: 6.03>
-data/ https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-2/CommonEvents.json
+data/CommonEvents.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-2/CommonEvents.json
 data/Map017.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-2/Map007.json
 data/Map011.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-2/Map011.json
 data/Map014.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-2/Map014.json
