@@ -1,3 +1,7 @@
 <Version: 6.01>
 data/updater.txt https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/updater.txt
 <End of Version>
+
+<Version: 6.02>
+data/Map013.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-2/Map013.json
+<End of Version>
