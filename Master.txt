@@ -5,27 +5,3 @@ data/updater.txt https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/hea
 <Version: 6.02>
 data/Map013.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-2/Map013.json
 <End of Version>
-
-<Version: 6.03>
-data/Map017.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-2/Map007.json
-data/Map011.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-2/Map011.json
-data/Map014.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-2/Map014.json
-data/Map015.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-2/Map015.json
-data/Map019.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-2/Map019.json
-data/Map021.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-2/Map021.json
-data/Map024.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-2/Map024.json
-data/Map025.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-2/Map025.json
-data/Map031.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-2/Map031.json
-data/Map032.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-2/Map032.json
-data/Map033.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-2/Map033.json
-data/Map032.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-2/Map034.json
-data/Map032.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-2/Map035.json
-data/MapInfos.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-2/MapInfos.json
-data/Translations.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-2/Translations.json
-js/plugins.js https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-2/plugins.js
-js/plugins/OmiTransfer.js https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-2/OmiTransfer.js
-<End of Version>
-
-<Version: 6.04>
-data/CommonEvents.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-2/CommonEvents.json
-<End of Version>
