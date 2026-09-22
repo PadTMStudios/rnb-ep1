@@ -26,3 +26,30 @@ data/Translations.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/re
 js/plugins.js https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-2/plugins.js
 js/plugins/OmiTransfer.js https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-2/OmiTransfer.js
 <End of Version>
+
+<Version: 6.04>
+data/Actors.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-3/Actors.json
+data/Animations.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-3/Animations.json
+data/Armors.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-3/Armors.json
+data/Classes.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-3/Classes.json
+data/CommonEvents.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-3/CommonEvents.json
+data/Enemies.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-3/Enemies.json
+data/Items.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-3/Items.json
+data/Map007.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-3/Map007.json
+data/Map008.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-3/Map008.json
+data/Map013.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-3/Map013.json
+data/Map015.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-3/Map015.json
+data/Map019.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-3/Map019.json
+data/Map021.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-3/Map021.json
+data/Map035.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-3/Map035.json
+data/MapInfos.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-3/MapInfos.json
+data/Skills.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-3/Skills.json
+data/States.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-3/States.json
+data/System.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-3/System.json
+data/Tilesets.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-3/Tilesets.json
+data/Translations.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-3/Translations.json
+data/Troops.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-3/Troops.json
+data/Weapons.json https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-3/Weapons.json
+js/plugins.js https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-3/plugins.js
+js/plugins/OmiList.js https://raw.githubusercontent.com/PadTMStudios/rnb-ep1/refs/heads/main/v6-3/OmiList.js
+<End of Version>
